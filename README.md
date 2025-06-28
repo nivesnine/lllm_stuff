@@ -1,4 +1,4 @@
-# llm_knowledge_base
+# OLD llm_knowledge_base repo
 Welcome, this repo is going to serve as a general knowledge dump of the things I'm learning with AI. It could get rough, but I'll try to smooth it out over time.
 
 ### WARNING: Codebase is highly volatile 
